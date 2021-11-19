@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-nav {
+#menu {
     width: 100%;
     height: 70px;
     background-color: rgb(118, 177, 245);
@@ -43,7 +43,7 @@ ul li a:hover {
     color: #1e1e1e;
     padding: 0 20px;
     margin-right: 20px;
-    height: 70px;
+    height: 65px;
     background-color:rgb(118, 177, 245) ;
     border: none;
 }
